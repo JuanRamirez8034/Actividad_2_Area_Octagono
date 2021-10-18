@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
-    <title>Hipotenusa</title>
+    <title>Octagono</title>
 </head>
 <!--Realice un programa en PHP que permita realzar el calculo del área de un 
 octágono regular con valores dinámicos.
